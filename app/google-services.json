@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926232520992",
+    "project_id": "github-browser-62fcf",
+    "storage_bucket": "github-browser-62fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926232520992:android:435e7cddcbdfeac67f0f45",
+        "android_client_info": {
+          "package_name": "com.example.githubbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926232520992-1ja18son2pl0ikdegjcgnod2t8ihqdo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Na2yxAU76B2u2QU78RvLFQxdvS4dQxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926232520992-1ja18son2pl0ikdegjcgnod2t8ihqdo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
