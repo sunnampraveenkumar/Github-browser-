@@ -14,11 +14,6 @@ An application to view your favorite repos in one place.You can add owner/organi
 
 
 
-## App
-
-[Download Application Apk from here](https://drive.google.com/file/d/12lsvmmiMH6SE-vmlgeur5Mm7Xve7qqWa/view?usp=sharing)
-
-
 
 ### TechStack and Libraries Used :
 
